@@ -1,5 +1,16 @@
 # 极客大学「算法训练营-第8期」作业提交仓库
-
+1. my fork: https://github.com/koftcl/algorithm008-class01
+2. public: https://github.com/algorithm008-class01/algorithm008-class01
+3. homework: https://github.com/algorithm008-class01/algorithm008-class01/issues 
+4. template: 
+```$xslt
+#学号：G20200343050245
+#姓名：知故
+#班级：1班
+#小组：刷题狂魔组
+#语言： JAVA
+#作业&总结链接：https://github.com/koftcl/algorithm008-class01/tree/master/Week_03
+```
 
 ## 讲师课件下载地址
 

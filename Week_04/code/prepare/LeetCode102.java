@@ -27,7 +27,7 @@ public class LeetCode102 {
     }
 
     /**
-     * 递归
+     * 递归 DFS
      * T O(n)
      * S O(n)
      */

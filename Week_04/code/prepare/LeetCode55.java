@@ -15,12 +15,15 @@ public class LeetCode55 {
 
     public boolean canJump(int[] nums) {
         if (nums == null || nums.length == 0) return false;
-
         boolean ans = true;
-        for (int i = nums.length - 1; i >= 0; i--) {
-
-            if (nums[i] == 0) {
+        int tmp = 0;
+        for (int i = nums.length - 2; i >= 0; i--) {
+            if (!ans && tmp - i < nums[i] || nums.length - 1 - i <= nums[i]) {
+                ans = true;
+            }
+            if (ans && nums[i] == 0) {
                 ans = false;
+                tmp = i;
             }
         }
 

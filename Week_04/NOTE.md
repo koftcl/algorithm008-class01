@@ -53,7 +53,8 @@ def BFS(graph, start, end):
         queue.push(nodes)
 ```
 
-# 实现
+# 练习
+5毒神掌伺候
 
 # 定义
 贪心算法 Greedy

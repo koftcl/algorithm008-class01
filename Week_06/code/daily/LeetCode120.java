@@ -16,6 +16,10 @@ public class LeetCode120 {
 
     }
 
+    /**
+     * T O(n)
+     * S O(n^0.5)
+     */
     public int minimumTotal(List<List<Integer>> triangle) {
         Collections.reverse(triangle);
         int[] dp = new int[triangle.get(0).size() + 1];

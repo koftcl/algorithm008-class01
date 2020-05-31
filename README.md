@@ -9,7 +9,8 @@
 #班级：1班
 #小组：刷题狂魔组
 #语言： JAVA
-#作业&总结链接：https://github.com/koftcl/algorithm008-class01/tree/master/Week_03
+#作业链接：https://github.com/koftcl/algorithm008-class01/tree/master/Week_06
+#总结链接：https://github.com/koftcl/algorithm008-class01/tree/master/Week_06/NOTE.md
 ```
 
 ## 讲师课件下载地址

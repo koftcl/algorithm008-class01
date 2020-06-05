@@ -6,10 +6,10 @@ public class ArrayUtil {
 
     @Test
     public void dealStr() {
-        String s = "[[1,3,1],[1,5,1],[4,2,1]]";
+        String s = "[[\"X\",\"X\",\"X\",\"X\"],[\"X\",\"O\",\"O\",\"X\"],[\"X\",\"X\",\"O\",\"X\"],[\"X\",\"O\",\"X\",\"X\"]]";
         s = s.replace("[", "{");
         s = s.replace("]", "}");
-//        s = s.replace("\"", "'");
+        s = s.replace("\"", "'");
         System.out.println(s);
     }
 }
